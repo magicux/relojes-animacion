@@ -37,6 +37,8 @@ relojes-animacion/
 │       └── styles.css
 ├── index.html
 └── README.md
+
+
 📄 Descripción general
 Este proyecto está diseñado como una prueba técnica para demostrar los conocimientos aprendidos en este módulo de CSS Avanzado.
 La temática es libre, con un enfoque en relojes como producto central.
